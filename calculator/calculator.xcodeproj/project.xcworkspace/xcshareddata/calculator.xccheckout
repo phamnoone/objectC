@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0E3234B5-0824-4484-8765-C0B1E505C1D2</string>
+	<string>A6464749-212F-415D-BD97-6865458BD3CB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,7 +14,7 @@
 		<string>https://github.com/phamnoone/objectC.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>PII/PII.xcodeproj/project.xcworkspace</string>
+	<string>calculator/calculator.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9DE261A1756F4D390C57125091A5E62C9C9AB389</key>
