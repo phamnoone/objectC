@@ -1,8 +1,8 @@
 //
 //  main.m
-//  calculator
+//  BullGame
 //
-//  Created by Thanh Pham on 11/6/15.
+//  Created by Thanh Pham on 11/11/15.
 //  Copyright (c) 2015 Thanh Pham. All rights reserved.
 //
 
@@ -14,4 +14,3 @@ int main(int argc, char * argv[]) {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
-    
