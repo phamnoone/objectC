@@ -38,9 +38,7 @@ extension ViewController : UICollectionViewDataSource,UICollectionViewDelegate,U
         return cell
     }
     
-    func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize{
-            collecttionView.frame.size.width
-    }
+   
 
     
     
