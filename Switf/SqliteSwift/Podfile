@@ -1,0 +1,19 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'SQLite.swift',
+git: 'https://github.com/stephencelis/SQLite.swift.git'
+
+# instead, for SQLCipher support
+pod 'SQLiteCipher.swift',
+git: 'https://github.com/stephencelis/SQLite.swift.git'
+
+target 'SqliteSwift' do
+
+end
+
+target 'SqliteSwiftTests' do
+
+end
+
